@@ -1099,7 +1099,7 @@ hr {
 
 .button {
   color: white;
-  background-color: #007FFF;
+  background-color: #000000;
   border-radius: 3px;
   transition-duration: .05s;
   transition-timing-function: ease-out;
@@ -1448,7 +1448,7 @@ input[type=range] {
   background-color: #7fdbff; }
 
 .bg-blue {
-  background-color: #007FFF; }
+  background-color: #000000; }
 
 .bg-navy {
   background-color: #001f3f; }
