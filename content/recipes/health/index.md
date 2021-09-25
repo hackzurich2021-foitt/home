@@ -2,36 +2,189 @@
 layout: recipe
 title:  "Health"
 image: health.png
-imagecredit: http://allrecipes.com/recipe/45396/easy-pancakes/
+imagecredit:
 date: 2017-03-16
 
-authorName: Sharon Holt
+authorName:
 authorURL:
-sourceName: All Recipes
-sourceURL: http://allrecipes.com/recipe/45396/easy-pancakes/
-category: Breakfast
-cuisine: american
+sourceName:
+sourceURL:
+category: Health
 tags:
-  - Breakfast
-yield: 4
-prepTime: 5
-cookTime: 10
-
-ingredients:
-- All-purpose flour 1 cup
-- White sugar 2 tablespoons
-- Baking powder 2 teaspoons
-- Salt 1 teaspoon
-- Egg, beaten 1
-- Milk 1 cup
-- Vegetable oil 2 tablespoons
-
-directions:
-- In a large bowl, mix flour, sugar, baking powder and salt.
-- Make a well in the center, and pour in milk, egg and oil.
-- Mix until smooth.
-- Heat a lightly oiled griddle or frying pan over medium high heat.
-- Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake.
-- Brown on both sides and serve hot.
+  - Health
+  - Enviroment
+  - Public
 
 ---
+
+
+{{< rawhtml >}}
+
+<CENTER>
+
+<div class="container">
+  <button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#instructions">what to do?</button>
+  <div id="instructions" class="collapse">
+    <br>
+    <b>Scroll / Click</b> left or right to get more questions. Don't worry; there are no scores, and no data is recorded, so have fun!
+    </br>
+  </div>
+</div>
+
+<hr>
+
+<div id="carouselExampleControls" class="carousel slide" data-interval="false" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-20" src="health.png" style="max-width:1px" alt="First slide">
+      <div class="container">
+        <h3>the question is...</h3>
+        <p><strong>Note:</strong> The <strong>data-parent</strong> attribute makes sure that all collapsible elements under the specified parent will be closed when one of the collapsible item is shown.</p>
+        <div id="accordion1">
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="card-link" data-toggle="collapse" href="#collapseOne1">
+                Incorrect Answer
+              </a>
+            </div>
+            <div id="collapseOne1" class="collapse" data-parent="#accordion1">
+              <div class="card-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo1">
+              Correct Answer
+            </a>
+            </div>
+            <div id="collapseTwo1" class="collapse" data-parent="#accordion1">
+              <div class="card-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                <img src="http://opendata.atlas.cern/release/2020/documentation/physics/pictures/fig_05h.png" style="width:100%; max-width:400px;">
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree1">
+                Incorrect Answer
+              </a>
+            </div>
+            <div id="collapseThree1" class="collapse" data-parent="#accordion1">
+              <div class="card-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-20" src="health.png" style="max-width:1px" alt="Second slide">
+      <div class="container">
+        <h3>the question is...</h3>
+        <p><strong>Note:</strong> The <strong>data-parent</strong> attribute makes sure that all collapsible elements under the specified parent will be closed when one of the collapsible item is shown.</p>
+        <p><strong>Note:</strong> The <strong>data-parent</strong> attribute makes sure that all collapsible elements under the specified parent will be closed when one of the collapsible item is shown.</p>
+        <div id="accordion2">
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="card-link" data-toggle="collapse" href="#collapseOne2">
+                Incorrect Answer
+              </a>
+            </div>
+            <div id="collapseOne2" class="collapse" data-parent="#accordion2">
+              <div class="card-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo2">
+              Correct Answer
+            </a>
+            </div>
+            <div id="collapseTwo2" class="collapse" data-parent="#accordion2">
+              <div class="card-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                <img src="http://opendata.atlas.cern/release/2020/documentation/physics/pictures/fig_05h.png" style="width:100%; max-width:400px;">
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree2">
+                Incorrect Answer
+              </a>
+            </div>
+            <div id="collapseThree2" class="collapse" data-parent="#accordion2">
+              <div class="card-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-20" src="health.png" style="max-width:1px" alt="Third slide">
+      <div class="container">
+        <h3>the question is...</h3>
+        <p><strong>Note:</strong> The <strong>data-parent</strong> attribute makes sure that all collapsible elements under the specified parent will be closed when one of the collapsible item is shown.</p>
+        <div id="accordion3">
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="card-link" data-toggle="collapse" href="#collapseOne3">
+                Incorrect Answer
+              </a>
+            </div>
+            <div id="collapseOne3" class="collapse" data-parent="#accordion3">
+              <div class="card-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo3">
+              Correct Answer
+            </a>
+            </div>
+            <div id="collapseTwo3" class="collapse" data-parent="#accordion3">
+              <div class="card-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                <img src="http://opendata.atlas.cern/release/2020/documentation/physics/pictures/fig_05h.png" style="width:100%; max-width:400px;">
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree3">
+                Incorrect Answer
+              </a>
+            </div>
+            <div id="collapseThree3" class="collapse" data-parent="#accordion3">
+              <div class="card-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+</CENTER>
+
+{{< /rawhtml >}}

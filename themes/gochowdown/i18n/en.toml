@@ -10,20 +10,20 @@ other = "Cooking time"
 [ingredients]
 other = "Ingredients"
 
-[directions]
-other = "Directions"
+#[directions]
+#other = "Directions"
 
-[components]
-other = "Components"
+#[components]
+#other = "Components"
 
 [this-is-a]
-other = "This is a"
+other = "Ready for the next "
 
 [component-based-recipe]
-other = "component-based recipe"
+other = "question"
 
 [fancy-talk]
-other = "fancy talk for making the dish in pieces, then assembling"
+other = "click the title on top of a picture to move to another one"
 
 [steps]
 other = "Steps"

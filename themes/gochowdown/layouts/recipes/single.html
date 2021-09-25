@@ -7,7 +7,7 @@
 <!-- call up the image and image credit link -->
   {{ with .Params.Image }}
     <div class="xs-p2">
-      <img itemprop="image" src="{{ . }}" />
+      <CENTER> <img itemprop="image" src="{{ . }}"  style="max-width: 360px;" /> </CENTER>
     </div>
   {{ else }}
     {{ range first 1 (.Resources.ByType "image") }}
@@ -24,7 +24,7 @@
     </header>
 
     <div class="px2 mt3 clearfix">
-      <div class="sm-col-8 mx-auto" itemprop="description">{{.Content}}</div>
+      <div class="sm-col-10 mx-auto" itemprop="description">{{.Content}}</div>
     </div>
 
     <div class="clearfix mt3">
@@ -168,7 +168,7 @@
          {{end}}
       {{end}}
     </div>
-    
+
   </article>
 </div>
 {{ end }}

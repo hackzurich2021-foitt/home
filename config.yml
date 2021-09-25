@@ -1,4 +1,5 @@
-baseURL: https://hackzurich2021-foitt.github.io/home/
+baseURL: http://universidad.ch/hackzurich/public/
+#baseURL: https://hackzurich2021-foitt.github.io/home/
 disablePathToLower: true
 languageCode: en-us
 title: Swiss Open Data

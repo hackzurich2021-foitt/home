@@ -7,7 +7,7 @@
 <!-- call up the image and image credit link -->
   {{ with .Params.Image }}
     <div class="xs-p2">
-      <img itemprop="image" src="{{ . }}" />
+      <CENTER> <img itemprop="image" src="{{ . }}"  style="max-width: 360px;" /> </CENTER>
     </div>
   {{ else }}
     {{ range first 1 (.Resources.ByType "image") }}
@@ -24,7 +24,7 @@
     </header>
 
     <div class="px2 mt3 clearfix">
-      <div class="sm-col-8 mx-auto" itemprop="description">{{.Content}}</div>
+      <div class="sm-col-10 mx-auto" itemprop="description">{{.Content}}</div>
     </div>
 
     <div class="clearfix mt3">
@@ -84,14 +84,14 @@
         </ul>
       </div>
     </div>
-    <!-- end recipe and directions --> 
+    <!-- end recipe and directions -->
 
     <!-- check if it's a component-based recipe, render it -->
     {{ with .Params.Components }}
     <div class="components bg-darken-2 p2 mt3 mb3 center">
       &darr; {{ i18n "this-is-a" }} <strong class="blue">{{ i18n "component-based-recipe" }}</strong> ({{ i18n "fancy-talk" }}). &darr;
     </div>
-    
+
     <div class="clearfix mxn2">
     {{ range  . }}
       {{ $compTitle := . }}
@@ -120,7 +120,7 @@
           </li>
           {{ end }}
         </ul>
-        
+
         <h4 class="blue regular xs-center">{{ i18n "steps" }}</h4>
         <ul itemprop="instructions">
           {{ range .Params.Directions }}
@@ -134,9 +134,9 @@
       </div>
     {{ end }}
     </div>
-  
+
     {{ end }}
-    <!-- end components -->  
+    <!-- end components -->
     <br />
 
     {{ with .Params.Category }}{{ partial "taxonomy/category" . }}{{ end }}
