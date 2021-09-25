@@ -24,10 +24,10 @@ directions:
 - Make the custard, pour into crust
 - Make the red berry topping, spread over the top
 
-components:
-- Graham Cracker Crust
-- Vanilla Custard Filling
-- Red Berry Dessert Topping
+#components:
+#- Graham Cracker Crust
+#- Vanilla Custard Filling
+#- Red Berry Dessert Topping
 
 ---
 

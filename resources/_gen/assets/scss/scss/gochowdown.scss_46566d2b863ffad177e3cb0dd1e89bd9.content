@@ -1078,7 +1078,7 @@ h6, .h6 {
     box-sizing: border-box; } }
 
 body {
-  color: #111;
+  color: #FFFFFF;
   background-color: black; }
 
 a {
@@ -1382,7 +1382,7 @@ input[type=range] {
   border-radius: 0; }
 
 .black, .dark-gray {
-  color: #111; }
+  color: #fff; }
 
 .gray, .mid-gray {
   color: #aaa; }
@@ -1569,7 +1569,7 @@ img {
   line-height: 0; }
 
 .bg-blue-tile {
-  background: #007FFF url("http://localhost:57558/assets/tile.png");
+  background: #007FFF url("http://localhost:64259/assets/tile.png");
   position: relative; }
 
 @media all and (min-width: 40em) {
@@ -1769,7 +1769,7 @@ a:hover .image {
 
 .navigation {
   width: 100%;
-  background-image: url("http://localhost:57558/assets/tile.png");
+  background-image: url("http://localhost:64259/assets/tile.png");
   padding: 1rem 0; }
   .navigation a, .navigation span {
     display: inline;
