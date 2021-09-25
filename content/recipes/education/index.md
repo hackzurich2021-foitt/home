@@ -90,24 +90,29 @@ tags:
       <img class="d-block w-20" src="education.png" style="max-width:1px" alt="Second slide">
       <div class="container">
         <h3>the question is...</h3>
-        <br><h5>What is the share of 'Yes' votes in Kanton-Basel Stadt 13. June 2021 in Riehen for "Mindestlohn-Initiative" und Gegenvorschlag?</h5></br>
+        <br><h5>What was the share of foreign students in year 2020 in canton Zurich?</h5></br>
         <div id="accordion2">
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="card-link" data-toggle="collapse" href="#collapseOne2">
-                60.8%
+                24%
               </a>
             </div>
             <div id="collapseOne2" class="collapse" data-parent="#accordion2">
               <div class="card-body">
-                This is <b>no</b> correct.<br> But please, give another try!
+              This is <b>Correct!</b><br>
+              </br>Here a plot with more details about this election<br></br>
+              <img src="Education_2.png" style="width:100%; max-width:600px;">
+              <br>
+              You can explore more at <a href="https://opendata.swiss/en/dataset/ubersicht-uber-alle-lernenden-im-kanton-zurich">https://opendata.swiss/.../kanton-zurich</a>
+              </br>
               </div>
             </div>
           </div>
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo2">
-              51.4%
+              79.3%
             </a>
             </div>
             <div id="collapseTwo2" class="collapse" data-parent="#accordion2">
@@ -119,17 +124,12 @@ tags:
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree2">
-                32%
+                77%
               </a>
             </div>
             <div id="collapseThree2" class="collapse" data-parent="#accordion2">
               <div class="card-body">
-              This is <b>Correct!</b><br>
-              </br>Here a plot with more details about this election<br></br>
-              <img src="Politics_1.png" style="width:100%; max-width:600px;">
-              <br>
-              You can explore more at <a href="https://data.bs.ch/explore/dataset/100144/table/">https://data.bs.ch/explore/dataset/100144/table/</a>
-              </br>
+              This is <b>no</b> correct.<br> But please, give another try!
               </div>
             </div>
           </div>
