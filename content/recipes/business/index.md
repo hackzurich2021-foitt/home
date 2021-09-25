@@ -41,12 +41,12 @@ tags:
       <img class="d-block w-20" src="business.png" style="max-width:1px" alt="First slide">
       <div class="container">
         <h3>the question is...</h3>
-        <br><h5>Which area had the highest number of new businesses created in year 2018?</h5></br>
+        <br><h5>Which region had the highest number of new businesses created in year 2018?</h5></br>
         <div id="accordion1">
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="card-link" data-toggle="collapse" href="#collapseOne1">
-                42.8%
+                Espace Mittelland
               </a>
             </div>
             <div id="collapseOne1" class="collapse" data-parent="#accordion1">
@@ -58,29 +58,29 @@ tags:
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo1">
-              39.2%
+              Eastern Switzerland
             </a>
             </div>
             <div id="collapseTwo1" class="collapse" data-parent="#accordion1">
               <div class="card-body">
-                This is <b>Correct!</b><br>
-                </br>Here a plot with more details about this election<br></br>
-                <img src="Politics_1.png" style="width:100%; max-width:600px;">
-                <br>
-                You can explore more at <a href="https://data.bs.ch/explore/dataset/100144/table/">https://data.bs.ch/explore/dataset/100144/table/</a>
-                </br>
+              This is <b>no</b> correct.<br> But please, give another try!
               </div>
             </div>
           </div>
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree1">
-                51.4%
+                Lake Geneva Region
               </a>
             </div>
             <div id="collapseThree1" class="collapse" data-parent="#accordion1">
               <div class="card-body">
-                This is <b>no</b> correct.<br> But please, give another try!
+              This is <b>Correct!</b><br>
+              </br>Here a plot with more details about it<br></br>
+              <img src="Business_2.png" style="width:100%; max-width:600px;">
+              <br>
+              You can explore more at <a href="https://recipes.swiss/en/dataset/neu-gegrundete-unternehmen-nach-kantonen4/">https://recipes.swiss/en/dataset/</a>
+              </br>
               </div>
             </div>
           </div>
@@ -92,24 +92,29 @@ tags:
       <img class="d-block w-20" src="business.png" style="max-width:1px" alt="Second slide">
       <div class="container">
         <h3>the question is...</h3>
-        <br><h5>What is the share of 'Yes' votes in Kanton-Basel Stadt 13. June 2021 in Riehen for "Mindestlohn-Initiative" und Gegenvorschlag?</h5></br>
+        <br><h5>Which three cantons had the highest number of jobs created by new business in the period 2013-2018?</h5></br>
         <div id="accordion2">
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="card-link" data-toggle="collapse" href="#collapseOne2">
-                60.8%
+                Zürich, Ticino, Vaud
               </a>
             </div>
             <div id="collapseOne2" class="collapse" data-parent="#accordion2">
               <div class="card-body">
-                This is <b>no</b> correct.<br> But please, give another try!
+              This is <b>Correct!</b><br>
+              </br>Here a plot with more details about it<br></br>
+              <img src="Business_1.png" style="width:100%; max-width:600px;">
+              <br>
+              You can explore more at <a href="https://recipes.swiss/en/dataset/neu-gegrundete-unternehmen-nach-kantonen4/">https://recipes.swiss/en/dataset/</a>
+              </br>
               </div>
             </div>
           </div>
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo2">
-              51.4%
+              Ticino, Schaffhausen, Vaud
             </a>
             </div>
             <div id="collapseTwo2" class="collapse" data-parent="#accordion2">
@@ -121,17 +126,12 @@ tags:
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree2">
-                32%
+                Thurgau, Appenzell Ausserrhoden, Uri
               </a>
             </div>
             <div id="collapseThree2" class="collapse" data-parent="#accordion2">
               <div class="card-body">
-              This is <b>Correct!</b><br>
-              </br>Here a plot with more details about this election<br></br>
-              <img src="Politics_1.png" style="width:100%; max-width:600px;">
-              <br>
-              You can explore more at <a href="https://data.bs.ch/explore/dataset/100144/table/">https://data.bs.ch/explore/dataset/100144/table/</a>
-              </br>
+              This is <b>no</b> correct.<br> But please, give another try!
               </div>
             </div>
           </div>
