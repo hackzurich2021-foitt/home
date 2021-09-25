@@ -7,7 +7,7 @@ date: 2017-03-16
 
 authorName: Elizabeth BH
 authorURL: http://allrecipes.com/cook/183690/made-it/
-sourceName: All Recipes
+sourceName: All recipes
 sourceURL: http://allrecipes.com/recipe/25037/best-big-fat-chewy-chocolate-chip-cookie/
 category: Dessert
 tags:

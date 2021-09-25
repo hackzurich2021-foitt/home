@@ -3,7 +3,7 @@ layout: recipe
 title:  "Health"
 image: health.png
 imagecredit:
-date: 2017-03-16
+date: 2021-09-20
 
 authorName:
 authorURL:
@@ -17,13 +17,12 @@ tags:
 
 ---
 
-
 {{< rawhtml >}}
 
 <CENTER>
 
 <div class="container">
-  <button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#instructions">what to do?</button>
+  <button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#instructions">what to do here?</button>
   <div id="instructions" class="collapse">
     <br>
     <b>Scroll / Click</b> left or right to get more questions. Don't worry; there are no scores, and no data is recorded, so have fun!
@@ -62,7 +61,7 @@ tags:
             <div id="collapseTwo1" class="collapse" data-parent="#accordion1">
               <div class="card-body">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                <img src="http://opendata.atlas.cern/release/2020/documentation/physics/pictures/fig_05h.png" style="width:100%; max-width:400px;">
+                <img src="http://recipes.atlas.cern/release/2020/documentation/physics/pictures/fig_05h.png" style="width:100%; max-width:400px;">
               </div>
             </div>
           </div>
@@ -109,7 +108,7 @@ tags:
             <div id="collapseTwo2" class="collapse" data-parent="#accordion2">
               <div class="card-body">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                <img src="http://opendata.atlas.cern/release/2020/documentation/physics/pictures/fig_05h.png" style="width:100%; max-width:400px;">
+                <img src="http://recipes.atlas.cern/release/2020/documentation/physics/pictures/fig_05h.png" style="width:100%; max-width:400px;">
               </div>
             </div>
           </div>
@@ -155,7 +154,7 @@ tags:
             <div id="collapseTwo3" class="collapse" data-parent="#accordion3">
               <div class="card-body">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                <img src="http://opendata.atlas.cern/release/2020/documentation/physics/pictures/fig_05h.png" style="width:100%; max-width:400px;">
+                <img src="http://recipes.atlas.cern/release/2020/documentation/physics/pictures/fig_05h.png" style="width:100%; max-width:400px;">
               </div>
             </div>
           </div>
@@ -188,3 +187,5 @@ tags:
 </CENTER>
 
 {{< /rawhtml >}}
+
+ ---

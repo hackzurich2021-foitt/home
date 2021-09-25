@@ -53,31 +53,31 @@ other = "Powered by"
 other = "For curious users like you"
 
 [save-recipes]
-other = "Save recipes in seconds with plain text formatting"
+other = "A series of questions to trigger your curiosity"
 
 [create-beautiful]
-other = "Create beautiful recipe pages with automated ease"
+other = "Go deeper with the references, plots and links"
 
-[use-recipes]
-other = "Use your recipes in any app"
+#[use-recipes]
+#other = "Use your recipes in any app"
 
-[our-favorite]
-other = "our favorite is"
+#[our-favorite]
+#other = "our favorite is"
 
-[share]
-other = "xxx"
+#[share]
+#other = "xxx"
 
 [for-the-developer]
-other = "For the developer"
+other = "For Journalists and"
 
 [markdown-hugo]
-other = "Markdown + Hugo under the hood"
+other = "other professionals that want to have more profound knowledge"
 
 [recipes-stored]
-other = "Recipes stored in plain text, ready for hacking"
+other = "of the official open data"
 
-[open-source]
-other = "Open source, everything's on GitHub"
+#[open-source]
+#other = "Open source, everything's on GitHub"
 
-[contribute]
-other = "contribute"
+#[contribute]
+#other = "contribute"

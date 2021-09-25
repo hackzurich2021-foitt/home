@@ -50,7 +50,7 @@ imagecredit: https://thenounproject.com/term/school/4206440/
       <div id="collapseTwo" class="collapse" data-parent="#accordion">
         <div class="card-body">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          <img src="http://opendata.atlas.cern/release/2020/documentation/physics/pictures/fig_05h.png" style="width:100%; max-width:400px;">
+          <img src="http://recipes.atlas.cern/release/2020/documentation/physics/pictures/fig_05h.png" style="width:100%; max-width:400px;">
         </div>
       </div>
     </div>
