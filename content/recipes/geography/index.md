@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Geography"
-image: business.png
+image: geography.png
 imagecredit:
 date: 2018-01-02
 
