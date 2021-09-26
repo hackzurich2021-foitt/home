@@ -38,7 +38,7 @@ tags:
       <img class="d-block w-20" src="health.png" style="max-width:1px" alt="First slide">
       <div class="container">
         <h3>the question is...</h3>
-        <p><strong>Note:</strong> The <strong>data-parent</strong> attribute makes sure that all collapsible elements under the specified parent will be closed when one of the collapsible item is shown.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> </br></p>
         <div id="accordion1">
           <div class="card" style="color:black">
             <div class="card-header">
@@ -48,7 +48,7 @@ tags:
             </div>
             <div id="collapseOne1" class="collapse" data-parent="#accordion1">
               <div class="card-body">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> </br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
               </div>
             </div>
           </div>
@@ -60,8 +60,8 @@ tags:
             </div>
             <div id="collapseTwo1" class="collapse" data-parent="#accordion1">
               <div class="card-body">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                <img src="http://recipes.atlas.cern/release/2020/documentation/physics/pictures/fig_05h.png" style="width:100%; max-width:400px;">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> </br>
+                <img src="health.png" style="width:100%; max-width:400px;">
               </div>
             </div>
           </div>
@@ -73,7 +73,7 @@ tags:
             </div>
             <div id="collapseThree1" class="collapse" data-parent="#accordion1">
               <div class="card-body">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> </br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
               </div>
             </div>
           </div>
@@ -84,8 +84,7 @@ tags:
       <img class="d-block w-20" src="health.png" style="max-width:1px" alt="Second slide">
       <div class="container">
         <h3>the question is...</h3>
-        <p><strong>Note:</strong> The <strong>data-parent</strong> attribute makes sure that all collapsible elements under the specified parent will be closed when one of the collapsible item is shown.</p>
-        <p><strong>Note:</strong> The <strong>data-parent</strong> attribute makes sure that all collapsible elements under the specified parent will be closed when one of the collapsible item is shown.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> </br></p>
         <div id="accordion2">
           <div class="card" style="color:black">
             <div class="card-header">
@@ -95,7 +94,7 @@ tags:
             </div>
             <div id="collapseOne2" class="collapse" data-parent="#accordion2">
               <div class="card-body">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> </br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
               </div>
             </div>
           </div>
@@ -107,8 +106,8 @@ tags:
             </div>
             <div id="collapseTwo2" class="collapse" data-parent="#accordion2">
               <div class="card-body">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                <img src="http://recipes.atlas.cern/release/2020/documentation/physics/pictures/fig_05h.png" style="width:100%; max-width:400px;">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> </br>
+                <img src="health.png" style="width:100%; max-width:400px;">
               </div>
             </div>
           </div>
@@ -120,7 +119,7 @@ tags:
             </div>
             <div id="collapseThree2" class="collapse" data-parent="#accordion2">
               <div class="card-body">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> </br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
               </div>
             </div>
           </div>
@@ -131,7 +130,7 @@ tags:
       <img class="d-block w-20" src="health.png" style="max-width:1px" alt="Third slide">
       <div class="container">
         <h3>the question is...</h3>
-        <p><strong>Note:</strong> The <strong>data-parent</strong> attribute makes sure that all collapsible elements under the specified parent will be closed when one of the collapsible item is shown.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> </br></p>
         <div id="accordion3">
           <div class="card" style="color:black">
             <div class="card-header">
@@ -141,7 +140,7 @@ tags:
             </div>
             <div id="collapseOne3" class="collapse" data-parent="#accordion3">
               <div class="card-body">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> </br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
               </div>
             </div>
           </div>
@@ -153,8 +152,8 @@ tags:
             </div>
             <div id="collapseTwo3" class="collapse" data-parent="#accordion3">
               <div class="card-body">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                <img src="http://recipes.atlas.cern/release/2020/documentation/physics/pictures/fig_05h.png" style="width:100%; max-width:400px;">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> </br>
+                <img src="health.png" style="width:100%; max-width:400px;">
               </div>
             </div>
           </div>
@@ -166,7 +165,7 @@ tags:
             </div>
             <div id="collapseThree3" class="collapse" data-parent="#accordion3">
               <div class="card-body">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> </br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
               </div>
             </div>
           </div>
@@ -188,4 +187,16 @@ tags:
 
 {{< /rawhtml >}}
 
- ---
+---
+
+{{< rawhtml >}}
+
+<CENTER>
+  <br>
+    <h3><a href="../../">back to Home</a></h3>
+  </br>
+</CENTER>
+
+{{< /rawhtml >}}
+
+---

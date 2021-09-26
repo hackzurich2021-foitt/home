@@ -18,7 +18,11 @@ tags:
 
 ---
 
-# SBB CFF FFS
+{{< rawhtml >}}
+
+<CENTER> <a href="https://www.swisspass.ch/home?lang=en"><img src="swisspass.png" style="width:100%; max-width:1000px;"></a>  </CENTER>  
+
+{{< /rawhtml >}}
 
 ---
 

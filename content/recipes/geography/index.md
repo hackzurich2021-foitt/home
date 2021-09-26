@@ -29,3 +29,17 @@ tags:
 {{< /rawhtml >}}
 
 ### Go to [https://map.geo.admin.ch](https://map.geo.admin.ch) for more details.
+
+---
+
+{{< rawhtml >}}
+
+<CENTER>
+  <br>
+    <h3><a href="../../">back to Home</a></h3>
+  </br>
+</CENTER>
+
+{{< /rawhtml >}}
+
+---

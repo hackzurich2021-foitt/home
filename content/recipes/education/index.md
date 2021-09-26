@@ -141,12 +141,12 @@ tags:
       <img class="d-block w-20" src="education.png" style="max-width:1px" alt="Third slide">
       <div class="container">
         <h3>the question is...</h3>
-        <br><h5>What is the share of 'Yes' votes in Kanton-Basel Stadt 13. June 2021 made in person for "Terrorismus-Gesetz"?</h5></br>
+        <br><h5>What was the share of local students in year 2000 in canton Zurich?</h5></br>
         <div id="accordion3">
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="card-link" data-toggle="collapse" href="#collapseOne3">
-                64.4%
+                76%
               </a>
             </div>
             <div id="collapseOne3" class="collapse" data-parent="#accordion3">
@@ -158,28 +158,29 @@ tags:
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo3">
-              39.2%
+              79.3%
             </a>
             </div>
             <div id="collapseTwo3" class="collapse" data-parent="#accordion3">
               <div class="card-body">
-              This is <b>Correct!</b><br>
-              </br>Here a plot with more details about this election<br></br>
-              <img src="Politics_2.png" style="width:100%; max-width:600px;">
-              <br>
-              You can explore more at <a href="https://data.bs.ch/explore/dataset/100144/table/">https://data.bs.ch/explore/dataset/100144/table/</a>
+              This is <b>no</b> correct.<br> But please, give another try!
               </div>
             </div>
           </div>
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree3">
-                25.6%
+                77%
               </a>
             </div>
             <div id="collapseThree3" class="collapse" data-parent="#accordion3">
               <div class="card-body">
-              This is <b>no</b> correct.<br> But please, give another try!
+              This is <b>Correct!</b><br>
+              </br>Here a plot with more details about this election<br></br>
+              <img src="Education_2.png" style="width:100%; max-width:600px;">
+              <br>
+              You can explore more at <a href="https://opendata.swiss/en/dataset/ubersicht-uber-alle-lernenden-im-kanton-zurich">https://opendata.swiss/.../kanton-zurich</a>
+              </br>
               </div>
             </div>
           </div>
@@ -191,12 +192,12 @@ tags:
       <img class="d-block w-20" src="education.png" style="max-width:1px" alt="Third slide">
       <div class="container">
         <h3>the question is...</h3>
-        <br><h5>What is the share of 'No' votes in Kanton-Basel Stadt 13. June 2021 in Bettingen for "Trinkwasser-Initiative"?</h5></br>
+        <br><h5>What was the share of male students in private schools in canton Zurich in 2020?</h5></br>
         <div id="accordion4">
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="card-link" data-toggle="collapse" href="#collapseOne4">
-                45.1%
+                48.3%
               </a>
             </div>
             <div id="collapseOne4" class="collapse" data-parent="#accordion4">
@@ -208,28 +209,29 @@ tags:
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo4">
-              66.4%
+              49.3%
             </a>
             </div>
             <div id="collapseTwo4" class="collapse" data-parent="#accordion4">
               <div class="card-body">
-              This is <b>Correct!</b><br>
-              </br>Here a plot with more details about this election<br></br>
-              <img src="Politics_1.png" style="width:100%; max-width:600px;">
-              <br>
-              You can explore more at <a href="https://data.bs.ch/explore/dataset/100144/table/">https://data.bs.ch/explore/dataset/100144/table/</a>
+              This is <b>no</b> correct.<br> But please, give another try!
               </div>
             </div>
           </div>
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree4">
-                52.8%
+                50.7%
               </a>
             </div>
             <div id="collapseThree4" class="collapse" data-parent="#accordion4">
               <div class="card-body">
-              This is <b>no</b> correct.<br> But please, give another try!
+              This is <b>Correct!</b><br>
+              </br>Here a plot with more details about this election<br></br>
+              <img src="Education_1.png" style="width:100%; max-width:600px;">
+              <br>
+              You can explore more at <a href="https://opendata.swiss/en/dataset/ubersicht-uber-alle-lernenden-im-kanton-zurich">https://opendata.swiss/.../kanton-zurich</a>
+              </br>
               </div>
             </div>
           </div>
@@ -241,28 +243,24 @@ tags:
       <img class="d-block w-20" src="education.png" style="max-width:1px" alt="Third slide">
       <div class="container">
         <h3>the question is...</h3>
-        <br><h5>What is the share of 'Yes' votes in Kanton-Basel Stadt 13. June 2021 in Basel for "Initiative Pestizidverbot"?</h5></br>
+        <br><h5>What was the share of foreign students in year 2010 in canton Zurich?</h5></br>
         <div id="accordion5">
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="card-link" data-toggle="collapse" href="#collapseOne5">
-                59.4%
+                23%
               </a>
             </div>
             <div id="collapseOne5" class="collapse" data-parent="#accordion5">
               <div class="card-body">
-              This is <b>Correct!</b><br>
-              </br>Here a plot with more details about this election<br></br>
-              <img src="Politics_1.png" style="width:100%; max-width:600px;">
-              <br>
-              You can explore more at <a href="https://data.bs.ch/explore/dataset/100144/table/">https://data.bs.ch/explore/dataset/100144/table/</a>
+              This is <b>no</b> correct.<br> But please, give another try!
               </div>
             </div>
           </div>
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo5">
-              39.2%
+              24%
             </a>
             </div>
             <div id="collapseTwo5" class="collapse" data-parent="#accordion5">
@@ -274,12 +272,17 @@ tags:
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree5">
-                41.2%
+                20.7%
               </a>
             </div>
             <div id="collapseThree5" class="collapse" data-parent="#accordion5">
               <div class="card-body">
-              This is <b>no</b> correct.<br> But please, give another try!
+              This is <b>Correct!</b><br>
+              </br>Here a plot with more details about this election<br></br>
+              <img src="Education_2.png" style="width:100%; max-width:600px;">
+              <br>
+              You can explore more at <a href="https://opendata.swiss/en/dataset/ubersicht-uber-alle-lernenden-im-kanton-zurich">https://opendata.swiss/.../kanton-zurich</a>
+              </br>
               </div>
             </div>
           </div>
@@ -291,24 +294,29 @@ tags:
       <img class="d-block w-20" src="education.png" style="max-width:1px" alt="Third slide">
       <div class="container">
         <h3>the question is...</h3>
-        <br><h5>What is the share of 'No' votes in Kanton-Basel Stadt 13. June 2021 made by post for "Mindestlohn-Initiative" und Gegenvorschlag?</h5></br>
+        <br><h5>What was the share of local students in year 2010 in canton Zurich?</h5></br>
         <div id="accordion6">
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="card-link" data-toggle="collapse" href="#collapseOne6">
-                35.6%
+                79.3%
               </a>
             </div>
             <div id="collapseOne6" class="collapse" data-parent="#accordion6">
               <div class="card-body">
-              This is <b>no</b> correct.<br> But please, give another try!
+              This is <b>Correct!</b><br>
+              </br>Here a plot with more details about this election<br></br>
+              <img src="Education_2.png" style="width:100%; max-width:600px;">
+              <br>
+              You can explore more at <a href="https://opendata.swiss/en/dataset/ubersicht-uber-alle-lernenden-im-kanton-zurich">https://opendata.swiss/.../kanton-zurich</a>
+              </br>
               </div>
             </div>
           </div>
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo6">
-              63.3%
+              76%
             </a>
             </div>
             <div id="collapseTwo6" class="collapse" data-parent="#accordion6">
@@ -320,16 +328,12 @@ tags:
           <div class="card" style="color:black">
             <div class="card-header">
               <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree6">
-                50.3%
+                24%
               </a>
             </div>
             <div id="collapseThree6" class="collapse" data-parent="#accordion6">
               <div class="card-body">
-              This is <b>Correct!</b><br>
-              </br>Here a plot with more details about this election<br></br>
-              <img src="Politics_2.png" style="width:100%; max-width:600px;">
-              <br>
-              You can explore more at <a href="https://data.bs.ch/explore/dataset/100144/table/">https://data.bs.ch/explore/dataset/100144/table/</a>
+              This is <b>no</b> correct.<br> But please, give another try!
               </div>
             </div>
           </div>
@@ -365,6 +369,13 @@ tags:
 {{< /rawhtml >}}
 
 
-{{< rawhtml >}} <CENTER> <a href="https://www.swissstats.bfs.admin.ch/collection/ch.admin.bfs.swissstat.issue20154201900/article/issue20154201900-01"><img src="education-report.png" style="width:100%; max-width:1000px;"></a>  </CENTER>  {{< /rawhtml >}}
+
+{{< rawhtml >}}
+
+<br></br>
+
+<CENTER> <a href="https://www.swissstats.bfs.admin.ch/collection/ch.admin.bfs.swissstat.issue20154201900/article/issue20154201900-01"><img src="education-report.png" style="width:100%; max-width:1000px;"></a>  </CENTER>  
+
+{{< /rawhtml >}}
 
 ---

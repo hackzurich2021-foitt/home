@@ -10,19 +10,11 @@ authorName:
 authorURL:
 sourceName:
 sourceURL:
-category: Dessert
+category: Sciences
 tags:
-  - Dessert
-  - fruit
-yield: 4
-prepTime:
-cookTime:
-
-
-directions:
-- Bake the crust and let it cool
-- Make the custard, pour into crust
-- Make the red berry topping, spread over the top
+  - Sciences
+  - Education
+  - Society
 
 #components:
 #- Graham Cracker Crust
@@ -31,4 +23,14 @@ directions:
 
 ---
 
-A favorite, this red berry tart is fairly easy to make and packs a huge wow factor.
+{{< rawhtml >}}
+
+<CENTER>
+  <br>
+    <h3><a href="../../">back to Home</a></h3>
+  </br>
+</CENTER>
+
+{{< /rawhtml >}}
+
+---
