@@ -72,12 +72,13 @@ Group,Question,A1,A2,A3,Answer_ID,Plot,Link
 2,What is the share of 'Yes' votes in Kanton-Basel Stadt 13. June 2021 made in person for �Initiative Pestizidverbot�?,68.90%,64.40%,63.30%,3,Politics_2.png,https://data.bs.ch/explore/dataset/100144/table/
 2,What is the share of 'Yes' votes in Kanton-Basel Stadt 13. June 2021 made by post for �Initiative Pestizidverbot�?,63.30%,56.60%,34%,2,Politics_2.png,https://data.bs.ch/explore/dataset/100144/table/
 1,What is the share of 'No' votes in Kanton-Basel Stadt 13. June 2021 in Basel for �CO2-Gesetz�?,40.60%,68%,32%,3,Politics_1.png,https://data.bs.ch/explore/dataset/100144/table/
-
+//
 3,Who is the current President of the Swiss Confederation?,Simonetta Sommaruga,Ignazio Cassis,Guy Parmelin,3,Politics_parmelin.JPG,https://www.admin.ch/gov/en/start.html
 3,Who is the current head of The Federal Department of Home Affairs?,Viola Amherd,Ueli Maurer,Alain Berset,1,Politics_amherd.JPG,https://www.admin.ch/gov/en/start.html
-3,Who is the current head of The Federal Department of Finance?,Guy Parmelin,Simonetta Sommaruga,Karin Keller-Sutter,2,Politics_cassis.JPG,https://www.admin.ch/gov/en/start.html
-3,"Who is the current head of The Federal Department of Economic Affairs, Education and Research?",Ueli Maurer,Ignazio Cassis,Guy Parmelin,2,Politics_sommaruga.JPG,https://www.admin.ch/gov/en/start.html
+3,Who is the current head of The Federal Department of Finance?,Guy Parmelin,Simonetta Sommaruga,Karin Keller-Sutter,2,Politics_sommaruga.jpg,https://www.admin.ch/gov/en/start.html
+3,"Who is the current head of The Federal Department of Economic Affairs, Education and Research?",Ueli Maurer,Ignazio Cassis,Guy Parmelin,2,Politics_cassis.jpg,https://www.admin.ch/gov/en/start.html
 3,"Who is the current head of The Federal Department of the Environment, Transport, Energy and Communications?",Guy Parmelin,Alain Berset,Simonetta Sommaruga,1,Politics_parmelin.JPG,https://www.admin.ch/gov/en/start.html
+
 3,"Who is the current head of The Federal Department of Defence, Civil Protection and Sport?",Ignazio Cassis,Karin Keller-Sutter,Ueli Maurer,3,Politics_maurer.JPG,https://www.admin.ch/gov/en/start.html
 3,Who is the current head of The Federal Department of Foreign Affairs?,Simonetta Sommaruga,Alain Berset,Karin Keller-Sutter,2,Politics_berset.JPG,https://www.admin.ch/gov/en/start.html
 3,Who is the current head of The Federal Department of Justice and Police?,Karin Keller-Sutter,Ueli Maurer,Ignazio Cassis,1,Politics_Keller_Sutter.JPG,https://www.admin.ch/gov/en/start.html

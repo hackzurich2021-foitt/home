@@ -343,6 +343,261 @@ tags:
         </div>
       </div>
     </div>
+    <!--question #7 -->
+    <div class="carousel-item">
+      <img class="d-block w-20" src="politics.png" style="max-width:1px" alt="Second slide">
+      <div class="container">
+        <h3>the question is...</h3>
+        <br><h5>Who is the current President of the Swiss Confederation?</h5></br>
+        <div id="accordion7">
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="card-link" data-toggle="collapse" href="#collapseOne7">
+                Simonetta Sommaruga
+              </a>
+            </div>
+            <div id="collapseOne7" class="collapse" data-parent="#accordion7">
+              <div class="card-body">
+                This is <b>no</b> correct.<br> But please, give another try!
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo7">
+              Ignazio Cassis
+            </a>
+            </div>
+            <div id="collapseTwo7" class="collapse" data-parent="#accordion7">
+              <div class="card-body">
+                This is <b>no</b> correct.<br> But please, give another try!
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree7">
+                Guy Parmelin
+              </a>
+            </div>
+            <div id="collapseThree7" class="collapse" data-parent="#accordion7">
+              <div class="card-body">
+              This is <b>Correct!</b><br>
+              </br>Here a plot with more details about this election<br></br>
+              <img src="Politics_parmelin.jpg" style="width:100%; max-width:600px;">
+              <br>
+              You can explore more at <a href="https://www.admin.ch/gov/en/start.html">https://www.admin.ch/gov/en/start.html</a>
+              </br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--question #8 -->
+    <div class="carousel-item">
+      <img class="d-block w-20" src="politics.png" style="max-width:1px" alt="Third slide">
+      <div class="container">
+        <h3>the question is...</h3>
+        <br><h5>Who is the current head of The Federal Department of Home Affairs?</h5></br>
+        <div id="accordion8">
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="card-link" data-toggle="collapse" href="#collapseOne8">
+                Viola Amherd
+              </a>
+            </div>
+            <div id="collapseOne8" class="collapse" data-parent="#accordion8">
+              <div class="card-body">
+              This is <b>Correct!</b><br>
+              </br>Here a plot with more details about this election<br></br>
+              <img src="Politics_amherd.JPG" style="width:100%; max-width:600px;">
+              <br>
+              You can explore more at <a href="https://www.admin.ch/gov/en/start.html">https://www.admin.ch/gov/en/start.html</a>
+              </br>
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo8">
+              Ueli Maurer
+            </a>
+            </div>
+            <div id="collapseTwo8" class="collapse" data-parent="#accordion8">
+              <div class="card-body">
+              This is <b>no</b> correct.<br> But please, give another try!
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree8">
+                Alain Berset
+              </a>
+            </div>
+            <div id="collapseThree8" class="collapse" data-parent="#accordion8">
+              <div class="card-body">
+              This is <b>no</b> correct.<br> But please, give another try!
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--question #9 -->
+    <div class="carousel-item">
+      <img class="d-block w-20" src="politics.png" style="max-width:1px" alt="Third slide">
+      <div class="container">
+        <h3>the question is...</h3>
+        <br><h5>Who is the current head of The Federal Department of Finance?</h5></br>
+        <div id="accordion9">
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="card-link" data-toggle="collapse" href="#collapseOne9">
+                Guy Parmelin
+              </a>
+            </div>
+            <div id="collapseOne9" class="collapse" data-parent="#accordion9">
+              <div class="card-body">
+              This is <b>no</b> correct.<br> But please, give another try!
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo9">
+              Simonetta Sommaruga
+            </a>
+            </div>
+            <div id="collapseTwo9" class="collapse" data-parent="#accordion9">
+              <div class="card-body">
+              This is <b>Correct!</b><br>
+              </br>Here a plot with more details about this election<br></br>
+              <img src="Politics_sommaruga.jpg" style="width:100%; max-width:600px;">
+              <br>
+              You can explore more at <a href="https://data.bs.ch/explore/dataset/100144/table/">https://data.bs.ch/explore/dataset/100144/table/</a>
+              </br>
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree9">
+                Karin Keller-Sutter
+              </a>
+            </div>
+            <div id="collapseThree9" class="collapse" data-parent="#accordion9">
+              <div class="card-body">
+              This is <b>no</b> correct.<br> But please, give another try!
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--question #10 -->
+    <div class="carousel-item">
+      <img class="d-block w-20" src="politics.png" style="max-width:1px" alt="Third slide">
+      <div class="container">
+        <h3>the question is...</h3>
+        <br><h5>Who is the current head of The Federal Department of Economic Affairs, Education and Research?</h5></br>
+        <div id="accordion10">
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="card-link" data-toggle="collapse" href="#collapseOne10">
+                Ueli Maurer
+              </a>
+            </div>
+            <div id="collapseOne10" class="collapse" data-parent="#accordion10">
+              <div class="card-body">
+              This is <b>no</b> correct.<br> But please, give another try!
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo10">
+              Ignazio Cassis
+            </a>
+            </div>
+            <div id="collapseTwo10" class="collapse" data-parent="#accordion10">
+              <div class="card-body">
+              This is <b>Correct!</b><br>
+              </br>Here a plot with more details about this election<br></br>
+              <img src="Politics_cassis.jpg" style="width:100%; max-width:600px;">
+              <br>
+              You can explore more at <a href="https://data.bs.ch/explore/dataset/100144/table/">https://data.bs.ch/explore/dataset/100144/table/</a>
+              </br>
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree5">
+                Guy Parmelin
+              </a>
+            </div>
+            <div id="collapseThree10" class="collapse" data-parent="#accordion10">
+              <div class="card-body">
+              This is <b>no</b> correct.<br> But please, give another try!
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--question #11 -->
+    <div class="carousel-item">
+      <img class="d-block w-20" src="politics.png" style="max-width:1px" alt="Third slide">
+      <div class="container">
+        <h3>the question is...</h3>
+        <br><h5>Who is the current head of The Federal Department of the Environment, Transport, Energy and Communications?</h5></br>
+        <div id="accordion11">
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="card-link" data-toggle="collapse" href="#collapseOne11">
+                Guy Parmelin
+              </a>
+            </div>
+            <div id="collapseOne11" class="collapse" data-parent="#accordion11">
+              <div class="card-body">
+              This is <b>Correct!</b><br>
+              </br>Here a plot with more details about this election<br></br>
+              <img src="Politics_parmelin.jpg" style="width:100%; max-width:600px;">
+              <br>
+              You can explore more at <a href="https://data.bs.ch/explore/dataset/100144/table/">https://data.bs.ch/explore/dataset/100144/table/</a>
+              </br>
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo11">
+              Alain Berset
+            </a>
+            </div>
+            <div id="collapseTwo11" class="collapse" data-parent="#accordion11">
+              <div class="card-body">
+              This is <b>no</b> correct.<br> But please, give another try!
+              </div>
+            </div>
+          </div>
+          <div class="card" style="color:black">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree11">
+                Simonetta Sommaruga
+              </a>
+            </div>
+            <div id="collapseThree11" class="collapse" data-parent="#accordion11">
+              <div class="card-body">
+              This is <b>no</b> correct.<br> But please, give another try!
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   <!-- end of questions -->
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
